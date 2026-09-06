@@ -28,3 +28,18 @@ Temporary Items
 *.swp
 *.swo
 *~
+
+# Secrets and local environment
+.env
+.env.*
+*.pem
+*.key
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+.venv/
