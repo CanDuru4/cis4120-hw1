@@ -2,7 +2,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-vanilla-e34f26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-vanilla-1572b6?style=flat&logo=css3&logoColor=white)
-[![GitHub Pages](https://img.shields.io/badge/demo-GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)](https://canduru4.github.io/CIS-4120-HW1/)
+[![GitHub Pages](https://img.shields.io/badge/demo-GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)](https://canduru4.github.io/cis4120-hw1/)
 
 A phone-sized, static HTML/CSS implementation of Screen 1 of a high-fidelity prototype:
 Course Picker Home, a mock course-selection app for university students browsing and
@@ -11,7 +11,7 @@ backend, and no interactive behaviour beyond the browser's own defaults.
 
 > **Context:** CIS 4120 (Human-Computer Interaction) HW1, University of Pennsylvania, Spring 2026
 
-Live page: [canduru4.github.io/CIS-4120-HW1](https://canduru4.github.io/CIS-4120-HW1/)
+Live page: [canduru4.github.io/cis4120-hw1](https://canduru4.github.io/cis4120-hw1/)
 
 ## Features
 
@@ -48,8 +48,8 @@ Clone the repository, then open `index.html` in a browser by any of these method
 2. From the terminal:
 
    ```bash
-   open /path/to/CIS-4120-HW1/index.html      # macOS
-   xdg-open /path/to/CIS-4120-HW1/index.html  # Linux
+   open /path/to/cis4120-hw1/index.html       # macOS
+   xdg-open /path/to/cis4120-hw1/index.html   # Linux
    start .\index.html                         # Windows (from the project folder)
    ```
 
@@ -58,7 +58,7 @@ Clone the repository, then open `index.html` in a browser by any of these method
 ## Project structure
 
 ```
-CIS-4120-HW1/
+cis4120-hw1/
 ├── index.html   # Screen 1 markup: header, search, chips, tabs, cards, calendar, nav
 ├── styles.css   # All styling: palette variables, phone frame, cards, CSS Grid calendar
 └── README.md    # This file
