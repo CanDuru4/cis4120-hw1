@@ -27,3 +27,10 @@ Stack: vanilla HTML5 + CSS3. No JavaScript, no build, no dependencies.
 - Repo was renamed from `CIS-4120-HW1`; the Pages URL changed with it. Use the lowercase URL above.
 - README states the UI was generated with ChatGPT assistance then hand-edited; keep that acknowledgment if editing README.
 - README follows the owner's standard skeleton (ends with License / Author). Keep that structure.
+
+## Validation placement and reuse (owner update 2026-10-26)
+
+- Follow the global Claude/Codex test policy and `~/Developer/personal/mac-mini/validation-economy/README.md` and `COVERAGE.md`. Focus first; full coverage only when the changed inputs require it. Docs-only policy edits need no application suite or deploy.
+- This repo has no heavy pipeline. Keep its existing static/syntax/visual checks; do not invent a full suite or reserve capacity for a static upload.
+- Brain is available only for a future compatible committed-source Python/Node check. This static repo needs no remote suite; browser checks and deployment outputs keep their existing rules.
+- Reuse only supported receipts with matching source, coverage, dependencies, runtime/platform and relevant environment. Preserve passed unaffected batches; count remote results only when the owning gate aggregates them. Receipts do not replace required build artifacts or OS/device/browser proof. Split or offload an impossible reservation instead of waiting indefinitely; only stop your own obsolete jobs.
